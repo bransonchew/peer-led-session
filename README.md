@@ -28,5 +28,4 @@ To preview the production build:
 npm run preview
 ```
 
----# peer-led-session
-# Tenzies
+---
